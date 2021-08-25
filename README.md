@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArieClaassens
 - 👀 I’m interested in GIS, IM, Python, PHP, PGSQL, etc.
-- 🌱 I’m currently learning for an MBA
+- 🌱 I’m currently reading for my MBA
 - 💞️ I’m looking to collaborate on Humanitarian projects
 - 📫 How to reach me - arieclaassens@gmail.com
 
